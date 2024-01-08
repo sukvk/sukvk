@@ -5,6 +5,7 @@ Merhaba, Ben Su Kavak! 👋
 💻 HTML5, CSS3, Bootstrap, JavaScript, Python, jQuery, Django, React gibi teknolojilerde uzmanlık seviyesindeyim.
 ⚡ Kod yazmayı seviyor, yaratıcı çözümler üretmeye özen gösteriyorum.
 📚 Teknolojiye ve yeni gelişmelere karşı meraklıyım, sürekli öğrenmeyi hedefliyorum.
+👋 Şimdilik bir sürü proje üzerinde çalışıyorum bittikçe yüklemeye devam edeceğim..
 
 Yeteneklerim
 ⚡ Frontend Geliştirme: HTML5, CSS3, Bootstrap, JavaScript, React
