@@ -1,6 +1,6 @@
 Merhaba, Ben Su Kavak! 👋
 
-🔭 Full Stack Geliştiriciyim ve sürekli kendimi geliştirmeye odaklanıyorum.
+🔭 Web Geliştiriciyim ve sürekli kendimi geliştirmeye odaklanıyorum.
 🌱 Angular ve Typescript dillerinde kendimi geşitirmekteyim.
 💻 HTML5, CSS3, Bootstrap, JavaScript, Python, jQuery, Django, React gibi teknolojilerde uzmanlık seviyesindeyim.
 ⚡ Kod yazmayı seviyor, yaratıcı çözümler üretmeye özen gösteriyorum.
